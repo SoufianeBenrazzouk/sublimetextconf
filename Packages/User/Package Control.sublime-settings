@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Compare Side-By-Side",
 		"DocBlockr",
 		"Package Control",
 		"PHP Companion",
