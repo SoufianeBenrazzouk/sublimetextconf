@@ -1,0 +1,1873 @@
+{
+	"folder_history":
+	[
+		"/C/www/yoomap",
+		"/C/www/yoomap/magicmail",
+		"/C/Users/Soufiane-Yoomap/Desktop/_jobs",
+		"/C/Users/Soufiane-Yoomap/Desktop/servers",
+		"/C/www/magicmail",
+		"/C/www/ticket2354",
+		"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/fz3-14688458090920",
+		"/C/www/ticket",
+		"/C/www/staging",
+		"/C/www/staging/yoomap",
+		"/C/www/MagicMail",
+		"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/fz3-14661529155070",
+		"/C/www/master",
+		"/C/Users/Soufiane-Yoomap/Desktop/_jobs_new",
+		"/C/www/dev",
+		"/C/www/preprod"
+	],
+	"last_version": 3126,
+	"last_window_id": 57,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"actua",
+						"actualBlue"
+					],
+					[
+						"actuel",
+						"actualGreen〔variable〕"
+					],
+					[
+						"max",
+						"maxJours〔variable〕"
+					],
+					[
+						"fi",
+						"fixContent"
+					],
+					[
+						"a-z",
+						"a-zA-Z0-9_"
+					],
+					[
+						"user",
+						"$userids〔variable〕"
+					],
+					[
+						"preg",
+						"preg_replace〔function〕"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ti",
+						"title\tTag"
+					],
+					[
+						"mails",
+						"$mailsMatrix〔variable〕"
+					],
+					[
+						"parse",
+						"parseInt〔function〕"
+					],
+					[
+						"email",
+						"email_address"
+					],
+					[
+						"get",
+						"getDisplayConsult〔function〕"
+					],
+					[
+						"and",
+						"andWhere〔function〕"
+					],
+					[
+						"strto",
+						"strtolower〔function〕"
+					],
+					[
+						"cor",
+						"corpsTEXT"
+					],
+					[
+						"print",
+						"print_r〔function〕"
+					],
+					[
+						"pref",
+						"preg_replace〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"present",
+						"$presentUsers〔variable〕"
+					],
+					[
+						"array_key",
+						"array_key_exists〔function〕"
+					],
+					[
+						"trace",
+						"trace($id"
+					],
+					[
+						"datas",
+						"datasGenerator"
+					],
+					[
+						"int",
+						"intval"
+					],
+					[
+						"idda",
+						"iddataType"
+					],
+					[
+						"iddata",
+						"iddatatype"
+					],
+					[
+						"tableau",
+						"tableauViews"
+					],
+					[
+						"les",
+						"lesVues"
+					],
+					[
+						"tabr",
+						"tabRolesTotal"
+					],
+					[
+						"array_ke",
+						"array_key_exists"
+					],
+					[
+						"is_",
+						"is_array"
+					],
+					[
+						"tblea",
+						"tableauDatasToExportIdsOnly"
+					],
+					[
+						"flagMem",
+						"flagMemberGroup"
+					],
+					[
+						"values",
+						"valuesFieldRole"
+					],
+					[
+						"value",
+						"valuesFieldRole"
+					],
+					[
+						"type",
+						"typeField"
+					],
+					[
+						"f",
+						"fields"
+					],
+					[
+						"group",
+						"groups_Id_matrix"
+					],
+					[
+						"tab",
+						"tabRolesTotal"
+					],
+					[
+						"fla",
+						"flagStatus"
+					],
+					[
+						"tabl",
+						"tableauFields"
+					],
+					[
+						"meta",
+						"metaDatas"
+					],
+					[
+						"Data",
+						"DatasDisplaysManager"
+					],
+					[
+						"Datas",
+						"DatasDisplays"
+					],
+					[
+						"data",
+						"datastatus"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"fo",
+						"foreach\tforeach …"
+					],
+					[
+						"preg_",
+						"preg_replace"
+					],
+					[
+						"preg_match",
+						"preg_match"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"dossier",
+						"dossierUpWeb"
+					],
+					[
+						"mess",
+						"messagebox"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"onl",
+						"onlyFirstMail"
+					],
+					[
+						"ran",
+						"randossier"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 160.0,
+				"last_filter": "Package Control: ins",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/logins.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp54920/mnt/autofs/applicatif/configs/prod/servers/cacb-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp55107/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39983/home/demo/public_html/oney/configs/poc/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39054/home/demo/public_html/oney/configs/poc/config.php",
+				"/C/www/yoomap/configs/prod/hosts.php",
+				"/C/www/yoomap/magicmail/MagicMail/ObviousDiscussion.php",
+				"/C/www/yoomap/magicmail/MagicMail/clickConflict.php",
+				"/C/www/yoomap/magicmail/MagicMail/MagicMail.php",
+				"/C/www/yoomap/magicmail/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp12856/mnt/autofs/applicatif/www/test.php",
+				"/C/www/yoomap/kernel/bundles/auth/views/login.twig",
+				"/C/www/yoomap/kernel/classes/core/Boot.php",
+				"/C/www/yoomap/kernel/classes/core/App.php",
+				"/C/www/yoomap/index.php",
+				"/C/www/yoomap/.htaccess",
+				"/C/www/yoomap/kernel/bundles/admin/c/bundleAdmin.php",
+				"/C/www/yoomap/_opcache_info.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/test.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/cognix/commandes.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp29357/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/Dropbox (YOOMAP)/Développeurs/Migration OVH/README.txt",
+				"/C/Users/Soufiane-Yoomap/Desktop/add empty file to correct missmatch on Folder name.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp03852/mnt/autofs/applicatif/www/_opcache_info.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp03348/mnt/autofs/applicatif/www/_opcache_clear.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp27375/mnt/autofs/applicatif/configs/prod/servers/edf.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp26232/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/ip.php",
+				"/C/www/yoomap/libs/simplesamlphp/docs/simplesamlphp-advancedfeatures.txt",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/www/authmemcookie.php",
+				"/C/www/yoomap/libs/simplesamlphp/www/authmemcookie.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/negotiate/lib/Auth/Source/Negotiate.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/negotiate/lib/Auth/Source/Negotiate.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/InfoCard/www/STS_card_issuer.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/InfoCard/www/STS_card_issuer.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/core/lib/Auth/UserPassBase.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/core/lib/Auth/UserPassBase.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/XHTML/IdPDisco.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/XHTML/IdPDisco.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/Utils/Net.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/Utils/Net.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/Logger.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/Logger.php",
+				"/C/www/yoomap/kernel/classes/Sys.php",
+				"/C/www/yoomap/modules/bundles/webservice/c/WebService.php",
+				"/C/www/yoomap/kernel/classes/Route.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/config/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp05713/mnt/autofs/applicatif/www/test.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Soufiane-Yoomap/Desktop/add empty file to correct missmatch on Folder name",
+				"/C/www/yoomap/libs/PhpImap/test_new_file.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04518/mnt/autofs/applicatif/configs/prod/servers/carrefour.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp55364/mnt/autofs/applicatif/configs/prod/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp22738/mnt/autofs/applicatif/configs/prod/servers/cemp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07919/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp50105/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04221/home/demo/public_html/cemp/configs/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39267/home/demo/public_html/cemp/configs/poc/servers/cemp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp31661/home/demo/public_html/cemp/configs/poc/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp05881/mnt/autofs/applicatif/configs/prod/servers/pulse-edf.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp21704/home/demo/public_html/cemp/configs/poc/hosts.php",
+				"/C/www/yoomap-jobs/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/Desktop/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp52357/home/demo/public_html/oney/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49295/home/demo/public_html/oney/configs/poc/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49531/home/demo/public_html/oney/configs/poc/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp11644/mnt/autofs/applicatif/www/magicmail/MagicMail/logs/ObviousDiscussion.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp10658/mnt/autofs/applicatif/www/magicmail/config/config-mailbox.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp17776/home/var/log/supervisor/worker_mm_get_mails.log",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/launcher_mm_get_mails.conf",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19719/mnt/autofs/applicatif/www/magicmail/MagicMail/_worker_get_mails.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp13780/home/var/log/supervisor/supervisord.log",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp12357/home/var/log/supervisor/launcher_mm_treatment_discussion.log",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/worker_mm_get_mails.conf",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/worker_mm_treatment_discussion.conf",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/launcher_mm_treatment_discussion.conf",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/docs/simplesamlphp-advancedfeatures.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49941/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp37497/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp53884/mnt/autofs/applicatif/configs/prod/servers/natixis-eurotitres.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp53203/mnt/autofs/applicatif/configs/prod/servers/natixis-challenge-ip2016.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp41192/mnt/autofs/applicatif/configs/prod/servers/renault.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp40322/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07405/home/demo/public_html/credit-agricole/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp25699/mnt/autofs/applicatif/configs/prod/servers/carrefour.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18266/home/demo/public_html/credit-agricole/configs/poc/servers/credit-agricole.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp08336/mnt/autofs/applicatif/configs/prod/servers/credit-agricole.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07416/home/demo/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp51904/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp54352/mnt/autofs/applicatif/configs/prod/servers/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39606/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp35785/var/file_client/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp29713/mnt/autofs/applicatif/_jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp52274/mnt/autofs/applicatif/_jobs/a_liste_bdd.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp26603/mnt/autofs/applicatif/configs/prod/servers/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp46467/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp02302/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp01728/mnt/autofs/applicatif/configs/prod/servers/allianz.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp00012/mnt/autofs/applicatif/www/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp48876/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-yoomap.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/credit-agricole.php",
+				"/C/cygwin64/home/Soufiane-Yoomap/onefolder_rsync.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp20039/mnt/autofs/applicatif/configs/prod/servers/edf-smi.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp21337/mnt/autofs/applicatif/configs/prod/servers/erp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp20801/mnt/autofs/applicatif/configs/prod/servers/bpce-trophe.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19861/mnt/autofs/applicatif/configs/prod/servers/demo-surm.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18330/home/demo/public_html/credit-agricole/configs/poc/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp46611/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp40302/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp56182/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07510/mnt/autofs/applicatif/configs/prod/servers/bpce-trophe.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04963/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39701/mnt/autofs/applicatif/configs/prod/servers/cadif.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp00995/mnt/autofs/applicatif/_jobs/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/test_crawling.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp50941/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-yoomap.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/clients.sh",
+				"/C/Users/Soufiane-Yoomap/Desktop/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/a_save_all_bdd.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp28211/mnt/autofs/applicatif/_jobs/a_save_all_bdd.sh",
+				"/C/www/yoomap-jobs/a_clear_opcache.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19390/mnt/autofs/applicatif/_jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18270/mnt/autofs/applicatif/configs/prod/servers/pulse-edf.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/pulse-edf.php",
+				"/C/www/yoomap/configs/prod/servers/demo-smi-idea.php"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\www\\yoomap\\",
+					"C:\\www\\yoomap\\kernel\\libs",
+					"C:\\www\\libs",
+					"C:\\www\\yoomap\\libs",
+					"C:\\www\\yoomap",
+					"C:\\www\\yoomap\\magicmail",
+					"",
+					"*.js",
+					"",
+					"*.js",
+					"C:\\www\\yoomap"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"protocol",
+					"remote_addr",
+					"edf",
+					"REMOTE_ADDR",
+					";",
+					"REMOTE_ADDR",
+					"ip",
+					"REMOTE_ADDR",
+					"remote_addr",
+					"challengeip2016",
+					"foncier",
+					"foncier**",
+					"config",
+					"expan",
+					"ca",
+					"soufflet",
+					"leclub",
+					"fdj",
+					"fjd",
+					"getConfig",
+					"public_html",
+					"public",
+					"localhost",
+					"getcon",
+					"get",
+					"home",
+					"magicmail",
+					"AMQPStreamConnection",
+					"localhost",
+					"ES_HEAP_SIZE",
+					"-1",
+					"up",
+					"natixis",
+					"cacb",
+					"emailDebug",
+					"quali",
+					"carrefour",
+					"preprod",
+					"http:(.*).pro",
+					"https://total-idea.yoomap.pub",
+					"http:(.*)\\.pro",
+					"http:(.*)\\.fr",
+					"http:(.*)\\.pro",
+					"http:",
+					"fr",
+					"http",
+					"webUrl",
+					"host",
+					"craw",
+					"script",
+					"http",
+					"127.0.0",
+					"localhos",
+					"total",
+					"airbus",
+					"aidbus",
+					"localhost",
+					"demo",
+					"airbus",
+					"good",
+					"json",
+					"magazine",
+					" php ",
+					"/usr/bin/php5",
+					"sendemail",
+					"UnixTimeStamp",
+					"function andWhere",
+					"login_blacklist_duration",
+					"classes",
+					"trace",
+					"function login",
+					"localhost:9200",
+					"black",
+					"edf",
+					"total",
+					"size",
+					"memo",
+					"memory",
+					"ram",
+					"adminyoo",
+					"adminyoomap",
+					"localhost:9200",
+					"dbHost",
+					"\"jdbc:mysq",
+					"localhost",
+					"localhost:9200",
+					"mod",
+					"node",
+					"8080",
+					":8080",
+					":8180",
+					":8181",
+					":8080",
+					"8080",
+					"fixContent",
+					"submitForm",
+					"submit-form",
+					"< \"",
+					"<%20",
+					"\"< \"",
+					"< ",
+					"getContent",
+					"content",
+					"post-discussion",
+					"postdis",
+					"getContent",
+					"console",
+					"htmlspecialchars",
+					"strip_tags",
+					"htmlenti",
+					"html",
+					"\">\"",
+					"\"<\"",
+					"\"\\>\"",
+					"'\\>'",
+					"'\\<'",
+					"\"\\<\"",
+					"\\<",
+					"htmlentities",
+					"/home/applicatif/public_html/",
+					"tableau_datas_names",
+					"tld",
+					"logFile",
+					"tableau_datas_names",
+					"url_to_test",
+					"michellesullivan",
+					"famous_sites",
+					"MagicMail/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"www",
+					"https:$1\\.pub",
+					"https:(.*)\\.pub",
+					"https:",
+					"pub",
+					"127.0.0.1",
+					" /usr/local/bin/php ",
+					"php",
+					"127.0.0.1:9200",
+					"magic_contacts",
+					"magic_entreprises",
+					"inline_pj",
+					"attached_pj",
+					"corps_text",
+					"corps_html",
+					"mail_user",
+					"tableau_datas_names",
+					"order",
+					"queue_mailbox_1",
+					"la_queue1",
+					"la_queue",
+					"<br>",
+					"&eacute;",
+					"mailDisplayContent",
+					"displayMailObject",
+					"displayResults",
+					"sendMessage",
+					"",
+					"enroute",
+					"Contacts",
+					"['corpsTEXT']",
+					"['corpsTEXTbr']",
+					"NameMailMatrix",
+					"NamesAndMailsMatrix",
+					"_mailAdress2Name",
+					"corpsTEXT",
+					"_parseMail",
+					"_convertStringBR",
+					"_displayTable",
+					"_displayTableDebug",
+					"_displayEmail",
+					"_cleanupInfos",
+					"_orderTable",
+					"_cleanTable",
+					"_parseTEXT",
+					"_seekInterest",
+					"contentView",
+					"numberView",
+					"$lesVues",
+					"lesVues",
+					"view",
+					"$userCredentials",
+					"self::$separator",
+					"`",
+					"self::$charnames",
+					"\\r\\n",
+					"Urls",
+					"NamesAndEmails",
+					"displayMail",
+					"onchange",
+					"onkeydown",
+					"height:160px",
+					"$ladate",
+					"dossierPJ",
+					"dossierTMP",
+					"dossiertmp",
+					"takeAllAnswers",
+					"dossierpj",
+					"tabchemins",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sys.php",
+						"kernel\\classes\\Sys.php"
+					],
+					[
+						"dbal",
+						"libs\\Doctrine\\DBAL\\DBALException.php"
+					],
+					[
+						"datasmana",
+						"kernel\\bundles\\datas\\c\\DatasManager.php"
+					],
+					[
+						"classhomefeed",
+						"kernel\\bundles\\home\\classHomeFeedsCore.php"
+					],
+					[
+						"filemanage",
+						"kernel\\bundles\\fileManager\\js\\fileManager.js"
+					],
+					[
+						"common.js",
+						"pub\\js\\common.js"
+					],
+					[
+						"app.js",
+						"pub\\js\\app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 270.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 858.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"actua",
+						"actualBlue"
+					],
+					[
+						"actuel",
+						"actualGreen〔variable〕"
+					],
+					[
+						"max",
+						"maxJours〔variable〕"
+					],
+					[
+						"fi",
+						"fixContent"
+					],
+					[
+						"a-z",
+						"a-zA-Z0-9_"
+					],
+					[
+						"user",
+						"$userids〔variable〕"
+					],
+					[
+						"preg",
+						"preg_replace〔function〕"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ti",
+						"title\tTag"
+					],
+					[
+						"mails",
+						"$mailsMatrix〔variable〕"
+					],
+					[
+						"parse",
+						"parseInt〔function〕"
+					],
+					[
+						"email",
+						"email_address"
+					],
+					[
+						"get",
+						"getDisplayConsult〔function〕"
+					],
+					[
+						"and",
+						"andWhere〔function〕"
+					],
+					[
+						"strto",
+						"strtolower〔function〕"
+					],
+					[
+						"cor",
+						"corpsTEXT"
+					],
+					[
+						"print",
+						"print_r〔function〕"
+					],
+					[
+						"pref",
+						"preg_replace〔function〕"
+					],
+					[
+						"var",
+						"var_dump〔function〕"
+					],
+					[
+						"present",
+						"$presentUsers〔variable〕"
+					],
+					[
+						"array_key",
+						"array_key_exists〔function〕"
+					],
+					[
+						"trace",
+						"trace($id"
+					],
+					[
+						"datas",
+						"datasGenerator"
+					],
+					[
+						"int",
+						"intval"
+					],
+					[
+						"idda",
+						"iddataType"
+					],
+					[
+						"iddata",
+						"iddatatype"
+					],
+					[
+						"tableau",
+						"tableauViews"
+					],
+					[
+						"les",
+						"lesVues"
+					],
+					[
+						"tabr",
+						"tabRolesTotal"
+					],
+					[
+						"array_ke",
+						"array_key_exists"
+					],
+					[
+						"is_",
+						"is_array"
+					],
+					[
+						"tblea",
+						"tableauDatasToExportIdsOnly"
+					],
+					[
+						"flagMem",
+						"flagMemberGroup"
+					],
+					[
+						"values",
+						"valuesFieldRole"
+					],
+					[
+						"value",
+						"valuesFieldRole"
+					],
+					[
+						"type",
+						"typeField"
+					],
+					[
+						"f",
+						"fields"
+					],
+					[
+						"group",
+						"groups_Id_matrix"
+					],
+					[
+						"tab",
+						"tabRolesTotal"
+					],
+					[
+						"fla",
+						"flagStatus"
+					],
+					[
+						"tabl",
+						"tableauFields"
+					],
+					[
+						"meta",
+						"metaDatas"
+					],
+					[
+						"Data",
+						"DatasDisplaysManager"
+					],
+					[
+						"Datas",
+						"DatasDisplays"
+					],
+					[
+						"data",
+						"datastatus"
+					],
+					[
+						"str_re",
+						"str_replace"
+					],
+					[
+						"fo",
+						"foreach\tforeach …"
+					],
+					[
+						"preg_",
+						"preg_replace"
+					],
+					[
+						"preg_match",
+						"preg_match"
+					],
+					[
+						"file_",
+						"file_get_contents"
+					],
+					[
+						"dossier",
+						"dossierUpWeb"
+					],
+					[
+						"mess",
+						"messagebox"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"backgroun",
+						"background-color"
+					],
+					[
+						"onl",
+						"onlyFirstMail"
+					],
+					[
+						"ran",
+						"randossier"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/www/yoomap/magicmail/config/config-mailbox.php",
+					"settings":
+					{
+						"buffer_size": 563,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/magicmail/MagicMail/MagicMail.php",
+					"settings":
+					{
+						"buffer_size": 17899,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/magicmail/MagicMail/clickConflict.php",
+					"settings":
+					{
+						"buffer_size": 3213,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/kernel/bundles/admin/c/bundleAdmin.php",
+					"settings":
+					{
+						"buffer_size": 46626,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/magicmail/MagicMail/ObviousDiscussion.php",
+					"settings":
+					{
+						"buffer_size": 19876,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/configs/prod/config.php",
+					"settings":
+					{
+						"buffer_size": 2344,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/www/yoomap/configs/prod/servers/erp.php",
+					"settings":
+					{
+						"buffer_size": 1627,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Soufiane-Yoomap/Desktop/3DMorphoz/Nouveau document texte.txt",
+					"settings":
+					{
+						"buffer_size": 427,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 160.0,
+				"last_filter": "Package Control: ins",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/www/yoomap",
+				"/C/www/yoomap/configs",
+				"/C/www/yoomap/magicmail",
+				"/C/www/yoomap/magicmail/config",
+				"/C/www/yoomap/magicmail/MagicMail"
+			],
+			"file_history":
+			[
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp46066/mnt/autofs/applicatif/configs/prod/servers/cacb-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp54920/mnt/autofs/applicatif/configs/prod/servers/cacb-innovation.php",
+				"/C/logins.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp55107/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39983/home/demo/public_html/oney/configs/poc/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39054/home/demo/public_html/oney/configs/poc/config.php",
+				"/C/www/yoomap/configs/prod/hosts.php",
+				"/C/www/yoomap/magicmail/MagicMail/ObviousDiscussion.php",
+				"/C/www/yoomap/magicmail/MagicMail/clickConflict.php",
+				"/C/www/yoomap/magicmail/MagicMail/MagicMail.php",
+				"/C/www/yoomap/magicmail/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp12856/mnt/autofs/applicatif/www/test.php",
+				"/C/www/yoomap/kernel/bundles/auth/views/login.twig",
+				"/C/www/yoomap/kernel/classes/core/Boot.php",
+				"/C/www/yoomap/kernel/classes/core/App.php",
+				"/C/www/yoomap/index.php",
+				"/C/www/yoomap/.htaccess",
+				"/C/www/yoomap/kernel/bundles/admin/c/bundleAdmin.php",
+				"/C/www/yoomap/_opcache_info.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/test.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/cognix/commandes.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp29357/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/Dropbox (YOOMAP)/Développeurs/Migration OVH/README.txt",
+				"/C/Users/Soufiane-Yoomap/Desktop/add empty file to correct missmatch on Folder name.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp03852/mnt/autofs/applicatif/www/_opcache_info.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp03348/mnt/autofs/applicatif/www/_opcache_clear.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp27375/mnt/autofs/applicatif/configs/prod/servers/edf.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp26232/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/ip.php",
+				"/C/www/yoomap/libs/simplesamlphp/docs/simplesamlphp-advancedfeatures.txt",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/www/authmemcookie.php",
+				"/C/www/yoomap/libs/simplesamlphp/www/authmemcookie.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/negotiate/lib/Auth/Source/Negotiate.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/negotiate/lib/Auth/Source/Negotiate.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/InfoCard/www/STS_card_issuer.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/InfoCard/www/STS_card_issuer.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/modules/core/lib/Auth/UserPassBase.php",
+				"/C/www/yoomap/libs/simplesamlphp/modules/core/lib/Auth/UserPassBase.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/XHTML/IdPDisco.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/XHTML/IdPDisco.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/Utils/Net.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/Utils/Net.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/lib/SimpleSAML/Logger.php",
+				"/C/www/yoomap/libs/simplesamlphp/lib/SimpleSAML/Logger.php",
+				"/C/www/yoomap/kernel/classes/Sys.php",
+				"/C/www/yoomap/modules/bundles/webservice/c/WebService.php",
+				"/C/www/yoomap/kernel/classes/Route.php",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/config/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp05713/mnt/autofs/applicatif/www/test.php",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Soufiane-Yoomap/Desktop/add empty file to correct missmatch on Folder name",
+				"/C/www/yoomap/libs/PhpImap/test_new_file.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04518/mnt/autofs/applicatif/configs/prod/servers/carrefour.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp55364/mnt/autofs/applicatif/configs/prod/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp22738/mnt/autofs/applicatif/configs/prod/servers/cemp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07919/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp50105/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04221/home/demo/public_html/cemp/configs/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39267/home/demo/public_html/cemp/configs/poc/servers/cemp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp31661/home/demo/public_html/cemp/configs/poc/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp05881/mnt/autofs/applicatif/configs/prod/servers/pulse-edf.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp21704/home/demo/public_html/cemp/configs/poc/hosts.php",
+				"/C/www/yoomap-jobs/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/Desktop/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp52357/home/demo/public_html/oney/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49295/home/demo/public_html/oney/configs/poc/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49531/home/demo/public_html/oney/configs/poc/servers/oney.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp11644/mnt/autofs/applicatif/www/magicmail/MagicMail/logs/ObviousDiscussion.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp10658/mnt/autofs/applicatif/www/magicmail/config/config-mailbox.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp17776/home/var/log/supervisor/worker_mm_get_mails.log",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/launcher_mm_get_mails.conf",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19719/mnt/autofs/applicatif/www/magicmail/MagicMail/_worker_get_mails.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp13780/home/var/log/supervisor/supervisord.log",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp12357/home/var/log/supervisor/launcher_mm_treatment_discussion.log",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/worker_mm_get_mails.conf",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/worker_mm_treatment_discussion.conf",
+				"/C/Users/Soufiane-Yoomap/Desktop/conf.d/launcher_mm_treatment_discussion.conf",
+				"/C/www/yoomap/kernel/libs/simplesamlphp/docs/simplesamlphp-advancedfeatures.txt",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp49941/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp37497/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp53884/mnt/autofs/applicatif/configs/prod/servers/natixis-eurotitres.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp53203/mnt/autofs/applicatif/configs/prod/servers/natixis-challenge-ip2016.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp41192/mnt/autofs/applicatif/configs/prod/servers/renault.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp40322/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07405/home/demo/public_html/credit-agricole/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp25699/mnt/autofs/applicatif/configs/prod/servers/carrefour.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18266/home/demo/public_html/credit-agricole/configs/poc/servers/credit-agricole.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp08336/mnt/autofs/applicatif/configs/prod/servers/credit-agricole.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07416/home/demo/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp51904/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp54352/mnt/autofs/applicatif/configs/prod/servers/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39606/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp35785/var/file_client/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp29713/mnt/autofs/applicatif/_jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp52274/mnt/autofs/applicatif/_jobs/a_liste_bdd.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp26603/mnt/autofs/applicatif/configs/prod/servers/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp46467/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/natixis-factor-idea.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp02302/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp01728/mnt/autofs/applicatif/configs/prod/servers/allianz.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp00012/mnt/autofs/applicatif/www/configs/prod/servers/credit-foncier-innovation.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp48876/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-yoomap.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/credit-agricole.php",
+				"/C/cygwin64/home/Soufiane-Yoomap/onefolder_rsync.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp20039/mnt/autofs/applicatif/configs/prod/servers/edf-smi.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp21337/mnt/autofs/applicatif/configs/prod/servers/erp.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp20801/mnt/autofs/applicatif/configs/prod/servers/bpce-trophe.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19861/mnt/autofs/applicatif/configs/prod/servers/demo-surm.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18330/home/demo/public_html/credit-agricole/configs/poc/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp46611/mnt/autofs/applicatif/configs/prod/config.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp40302/home/applicatif/public_html/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp56182/mnt/autofs/applicatif/configs/prod/hosts.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp07510/mnt/autofs/applicatif/configs/prod/servers/bpce-trophe.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp04963/mnt/autofs/applicatif/www/.htaccess",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp39701/mnt/autofs/applicatif/configs/prod/servers/cadif.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp00995/mnt/autofs/applicatif/_jobs/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/test_crawling.php",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp50941/mnt/autofs/applicatif/configs/prod/servers/credit-foncier-yoomap.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/clients.sh",
+				"/C/Users/Soufiane-Yoomap/Desktop/a_liste_bdd.sh",
+				"/C/www/yoomap-jobs/a_save_all_bdd.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp28211/mnt/autofs/applicatif/_jobs/a_save_all_bdd.sh",
+				"/C/www/yoomap-jobs/a_clear_opcache.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp19390/mnt/autofs/applicatif/_jobs/clients.sh",
+				"/C/Users/Soufiane-Yoomap/AppData/Local/Temp/scp18270/mnt/autofs/applicatif/configs/prod/servers/pulse-edf.php",
+				"/C/Users/Soufiane-Yoomap/Desktop/pulse-edf.php"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\www\\yoomap\\",
+					"C:\\www\\yoomap\\kernel\\libs",
+					"C:\\www\\libs",
+					"C:\\www\\yoomap\\libs",
+					"C:\\www\\yoomap",
+					"C:\\www\\yoomap\\magicmail",
+					"",
+					"*.js",
+					"",
+					"*.js",
+					"C:\\www\\yoomap"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"protocol",
+					"remote_addr",
+					"edf",
+					"REMOTE_ADDR",
+					";",
+					"REMOTE_ADDR",
+					"ip",
+					"REMOTE_ADDR",
+					"remote_addr",
+					"challengeip2016",
+					"foncier",
+					"foncier**",
+					"config",
+					"expan",
+					"ca",
+					"soufflet",
+					"leclub",
+					"fdj",
+					"fjd",
+					"getConfig",
+					"public_html",
+					"public",
+					"localhost",
+					"getcon",
+					"get",
+					"home",
+					"magicmail",
+					"AMQPStreamConnection",
+					"localhost",
+					"ES_HEAP_SIZE",
+					"-1",
+					"up",
+					"natixis",
+					"cacb",
+					"emailDebug",
+					"quali",
+					"carrefour",
+					"preprod",
+					"http:(.*).pro",
+					"https://total-idea.yoomap.pub",
+					"http:(.*)\\.pro",
+					"http:(.*)\\.fr",
+					"http:(.*)\\.pro",
+					"http:",
+					"fr",
+					"http",
+					"webUrl",
+					"host",
+					"craw",
+					"script",
+					"http",
+					"127.0.0",
+					"localhos",
+					"total",
+					"airbus",
+					"aidbus",
+					"localhost",
+					"demo",
+					"airbus",
+					"good",
+					"json",
+					"magazine",
+					" php ",
+					"/usr/bin/php5",
+					"sendemail",
+					"UnixTimeStamp",
+					"function andWhere",
+					"login_blacklist_duration",
+					"classes",
+					"trace",
+					"function login",
+					"localhost:9200",
+					"black",
+					"edf",
+					"total",
+					"size",
+					"memo",
+					"memory",
+					"ram",
+					"adminyoo",
+					"adminyoomap",
+					"localhost:9200",
+					"dbHost",
+					"\"jdbc:mysq",
+					"localhost",
+					"localhost:9200",
+					"mod",
+					"node",
+					"8080",
+					":8080",
+					":8180",
+					":8181",
+					":8080",
+					"8080",
+					"fixContent",
+					"submitForm",
+					"submit-form",
+					"< \"",
+					"<%20",
+					"\"< \"",
+					"< ",
+					"getContent",
+					"content",
+					"post-discussion",
+					"postdis",
+					"getContent",
+					"console",
+					"htmlspecialchars",
+					"strip_tags",
+					"htmlenti",
+					"html",
+					"\">\"",
+					"\"<\"",
+					"\"\\>\"",
+					"'\\>'",
+					"'\\<'",
+					"\"\\<\"",
+					"\\<",
+					"htmlentities",
+					"/home/applicatif/public_html/",
+					"tableau_datas_names",
+					"tld",
+					"logFile",
+					"tableau_datas_names",
+					"url_to_test",
+					"michellesullivan",
+					"famous_sites",
+					"MagicMail/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"www",
+					"https:$1\\.pub",
+					"https:(.*)\\.pub",
+					"https:",
+					"pub",
+					"127.0.0.1",
+					" /usr/local/bin/php ",
+					"php",
+					"127.0.0.1:9200",
+					"magic_contacts",
+					"magic_entreprises",
+					"inline_pj",
+					"attached_pj",
+					"corps_text",
+					"corps_html",
+					"mail_user",
+					"tableau_datas_names",
+					"order",
+					"queue_mailbox_1",
+					"la_queue1",
+					"la_queue",
+					"<br>",
+					"&eacute;",
+					"mailDisplayContent",
+					"displayMailObject",
+					"displayResults",
+					"sendMessage",
+					"",
+					"enroute",
+					"Contacts",
+					"['corpsTEXT']",
+					"['corpsTEXTbr']",
+					"NameMailMatrix",
+					"NamesAndMailsMatrix",
+					"_mailAdress2Name",
+					"corpsTEXT",
+					"_parseMail",
+					"_convertStringBR",
+					"_displayTable",
+					"_displayTableDebug",
+					"_displayEmail",
+					"_cleanupInfos",
+					"_orderTable",
+					"_cleanTable",
+					"_parseTEXT",
+					"_seekInterest",
+					"contentView",
+					"numberView",
+					"$lesVues",
+					"lesVues",
+					"view",
+					"$userCredentials",
+					"self::$separator",
+					"`",
+					"self::$charnames",
+					"\\r\\n",
+					"Urls",
+					"NamesAndEmails",
+					"displayMail",
+					"onchange",
+					"onkeydown",
+					"height:160px",
+					"$ladate",
+					"dossierPJ",
+					"dossierTMP",
+					"dossiertmp",
+					"takeAllAnswers",
+					"dossierpj",
+					"tabchemins",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\www\\yoomap"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/www/yoomap/magicmail/config/config-mailbox.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 563,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										444,
+										444
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/www/yoomap/magicmail/MagicMail/MagicMail.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17899,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										852,
+										852
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6156.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/www/yoomap/magicmail/MagicMail/clickConflict.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3213,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										927,
+										927
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/www/yoomap/kernel/bundles/admin/c/bundleAdmin.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 46626,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11240,
+										11240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5846.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/www/yoomap/magicmail/MagicMail/ObviousDiscussion.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19876,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14560,
+										14560
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1938.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/www/yoomap/configs/prod/config.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2344,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										490,
+										490
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/www/yoomap/configs/prod/servers/erp.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1627,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										879,
+										879
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Soufiane-Yoomap/Desktop/3DMorphoz/Nouveau document texte.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 427,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										426,
+										426
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32206,-32000,-1,-1,630,840,91,1714",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sys.php",
+						"kernel\\classes\\Sys.php"
+					],
+					[
+						"dbal",
+						"libs\\Doctrine\\DBAL\\DBALException.php"
+					],
+					[
+						"datasmana",
+						"kernel\\bundles\\datas\\c\\DatasManager.php"
+					],
+					[
+						"classhomefeed",
+						"kernel\\bundles\\home\\classHomeFeedsCore.php"
+					],
+					[
+						"filemanage",
+						"kernel\\bundles\\fileManager\\js\\fileManager.js"
+					],
+					[
+						"common.js",
+						"pub\\js\\common.js"
+					],
+					[
+						"app.js",
+						"pub\\js\\app.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 270.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 55,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/Soufiane-Yoomap/Documents/magicmail.sublime-workspace",
+			"/C/Users/Soufiane-Yoomap/Documents/ticket.sublime-workspace",
+			"/C/Users/Soufiane-Yoomap/ticket.sublime-workspace"
+		]
+	}
+}

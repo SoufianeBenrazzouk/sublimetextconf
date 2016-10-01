@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP-Twig",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - itg.flat",
+		"Theme - Phoenix"
+	]
+}

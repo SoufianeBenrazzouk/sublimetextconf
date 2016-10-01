@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+k", "ctrl+up"], "command": "fold" },
+    { "keys": ["ctrl+k", "ctrl+down"], "command": "unfold" },
+    { "keys": ["ctrl+k", "ctrl+pageup"], "command": "fold_all" },
+    { "keys": ["ctrl+k", "ctrl+pagedown"], "command": "unfold_all" }
+]
